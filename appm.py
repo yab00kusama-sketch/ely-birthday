@@ -65,8 +65,8 @@ if st.button("✉️ Mektubunu aç", use_container_width=True):
             <p style='color: #4a4a4a; font-size: 1.2rem;'>
                 Doğum günün kutlu olsun Ely! <br>
                 Hayallerini gerçekleştirebildiğin bir gelecek dilerim <br>
-                Artık bir yıl daha yaşlısın, hehe~~ <br>
-                ♪ヽ(´▽｀)/ 💫
+                Artık bir yıl daha yaşlısın, hehe~~💫 <br>
+                ♪ヽ(´▽｀)/ 
             </p>
             <p style='font-size: 2rem;'>👽🛸🚀👾⭐☄️</p>
         </div>
